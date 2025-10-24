@@ -46,4 +46,8 @@ the Biodiversity, Circular Economy and Environment (REA.B.3); co-funded by the
 Swiss State Secretariat for Education, Research and Innovation (SERI) under 
 contract number 24.00054 and by the UK Research and Innovation (UKRI) under 
 the Department for Business, Energy and Industrial Strategy’s Horizon Europe 
-Guarantee Scheme. We are grateful to Dr Krystyna Nadachowska-Brzyska for consulation.
+Guarantee Scheme. 
+
+This research was carried out with the support of the Interdisciplinary Centre for Mathematical and Computational Modelling at the University of Warsaw (ICM UW).
+
+We are grateful to Dr Krystyna Nadachowska-Brzyska for consulation.
